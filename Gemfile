@@ -6,7 +6,8 @@ ruby '2.6.6'
 gem 'rails', '~> 6.1.1'
 gem 'mysql2', '~> 0.5'
 gem 'puma', '~> 5.0'
-
+gem 'paper_trail'
+gem 'pry'
 # Use Active Model has_secure_password
 gem 'bcrypt'
 
